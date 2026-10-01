@@ -1,6 +1,0 @@
-{
-  "name": "WorkDesk AI",
-  "description": "One affordable AI workspace for everyday work. Intelligent multi-agent orchestration for documents, data analysis, and professional writing.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
